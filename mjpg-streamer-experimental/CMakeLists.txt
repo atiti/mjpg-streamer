@@ -44,7 +44,8 @@ add_subdirectory(plugins/input_http)
 add_subdirectory(plugins/input_opencv)
 add_subdirectory(plugins/input_raspicam)
 add_subdirectory(plugins/input_ptp2)
-add_subdirectory(plugins/input_uvc)
+#add_subdirectory(plugins/input_uvc)
+add_subdirectory(plugins/input_fbimx)
 
 #
 # Output plugins
